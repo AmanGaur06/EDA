@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analysis PDF/ Data Analysis
+Exploratory Data Analysis PDF/ ipynb 
